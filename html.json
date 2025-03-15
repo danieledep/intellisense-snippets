@@ -1,0 +1,11 @@
+{
+	"this-that": {
+		"prefix": [
+			"this"
+		],
+		"body": [
+			"that"
+		],
+		"description": "demo"
+	}
+}
